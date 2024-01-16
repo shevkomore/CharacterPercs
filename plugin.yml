@@ -1,0 +1,11 @@
+main: com.shevkomore.percs.Main
+name: Percs
+version: 1.1.0
+api-version: 1.13
+commands:
+    perc:
+        usage: /perc [set] <perc>
+        description: Percs setup command
+    change:
+        usage: (ONLY SPLIT CAN USE THAT)/change <0|1>
+        description: (ONLY SPLIT CAN USE THAT) Changes between two Split states; or makes Split stable
